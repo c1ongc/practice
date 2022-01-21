@@ -3,7 +3,7 @@ package com.practice.common.base;
 /**
  * Definition for singly-linked list.
  *
- * @author cuilongcan <cui.longcan@chinaott.onaliyun.net>
+ * @author cuilongcan 
  * @create 2019/3/8
  */
 public class ListNode {

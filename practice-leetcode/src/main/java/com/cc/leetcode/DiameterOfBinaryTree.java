@@ -4,7 +4,7 @@ package com.cc.leetcode;
 import com.practice.common.base.TreeNode;
 
 /**
- * @author cuilongcan <cui.longcan@chinaott.onaliyun.net>
+ * @author cuilongcan 
  * @create 2019/3/7
  */
 public class DiameterOfBinaryTree {

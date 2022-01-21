@@ -3,7 +3,7 @@ package com.cc.leetcode;
 import com.practice.common.base.ListNode;
 
 /**
- * @author cuilongcan <cui.longcan@chinaott.onaliyun.net>
+ * @author cuilongcan 
  * @create 2019/3/8
  */
 // todo
