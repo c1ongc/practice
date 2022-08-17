@@ -23,7 +23,7 @@
         <springboot.version>2.2.0.RELEASE</springboot.version>
         <junit.version>4.13.1</junit.version>
         <jol.version>0.9</jol.version>
-        <pdf.version>2.0.15</pdf.version>
+        <pdf.version>2.0.24</pdf.version>
     </properties>
     <dependencies>
         <dependency>
